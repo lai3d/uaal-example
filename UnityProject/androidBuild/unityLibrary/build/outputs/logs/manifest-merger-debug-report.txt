@@ -39,16 +39,6 @@ ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibra
 		ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:5:69-110
 	android:name
 		ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:5:15-68
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:6:7-9:23
-action#android.intent.action.MAIN
-ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:7:9-61
-	android:name
-		ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:7:17-58
-category#android.intent.category.LAUNCHER
-ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:8:9-69
-	android:name
-		ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:8:19-66
 meta-data#unityplayer.UnityActivity
 ADDED from E:\Practice\Unity3d\uaal-example\UnityProject\androidBuild\unityLibrary\src\main\AndroidManifest.xml:10:7-82
 	android:value
